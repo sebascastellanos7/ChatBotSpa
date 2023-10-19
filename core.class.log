@@ -1,0 +1,653 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144060376@s.whatsapp.net',
+    fromMe: false,
+    id: 'A79966F060033DEFBEBD49A1F68E3FE9',
+    participant: undefined
+  },
+  messageTimestamp: 1697652326,
+  pushName: 'Juana Valentina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ay en mi mente ya te había respondido',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ay en mi mente ya te había respondido',
+  from: '573144060376'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144060376@s.whatsapp.net',
+    fromMe: false,
+    id: '9D9627451956356BF852C300B550473D',
+    participant: undefined
+  },
+  messageTimestamp: 1697652334,
+  pushName: 'Juana Valentina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Todavía está disponible la hora?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Todavía está disponible la hora?',
+  from: '573144060376'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144060376@s.whatsapp.net',
+    fromMe: false,
+    id: 'EEEC7708DD385AD47AB7EBC926502FC7',
+    participant: undefined
+  },
+  messageTimestamp: 1697652363,
+  pushName: 'Juana Valentina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Deseo retiro y pues según como me vean las uñas así mismo sería semi o tradicional',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Deseo retiro y pues según como me vean las uñas así mismo sería semi o tradicional',
+  from: '573144060376'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144060376@s.whatsapp.net',
+    fromMe: false,
+    id: '19E9DC2B5F8B42B8E93BA05EC4C1F221',
+    participant: undefined
+  },
+  messageTimestamp: 1697656442,
+  pushName: 'Juana Valentina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sipi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sipi',
+  from: '573144060376'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112392448@s.whatsapp.net',
+    fromMe: false,
+    id: '3A46B36C56AEDD838CE5',
+    participant: undefined
+  },
+  messageTimestamp: 1697657587,
+  pushName: 'Katherin Barrero 💫⭐️✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas tardes quisiera saber si tienen disponibilidad ahora para maños y pies tradicional para mi hija de 9 años y para mi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas tardes quisiera saber si tienen disponibilidad ahora para maños y pies tradicional para mi hija de 9 años y para mi',
+  from: '573112392448'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c1e89f2e-e6d3-480b-a76f-05a9f68b8651',
+  keyword: 'key_a4538aab-36d5-4690-a204-62351bb07775',
+  answer: '🙌 Hola bienvenid@, mi nombre es *Uñitas* la *Inteligencia Artificial*🤖 de *Gold Nails Spa*💅 y fui creada para ayudarte',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '98eb8d7029ba1d4efab857d16f893a57'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4867f44e-9b9f-4c7e-8aa9-b08c4ff7b501',
+  keyword: 'ans_c1e89f2e-e6d3-480b-a76f-05a9f68b8651',
+  answer: 'Si te interesa alguna de estas opciones por favor *escribe el numero* que corresponde:\n' +
+    '\n' +
+    '*1* - Para Agendar una cita con nosotros.\n' +
+    '\n' +
+    '*2* - Para recibir información sobre nuestro servicios y precios.\n' +
+    '\n' +
+    '*3* - Para ver la *PROMO* del mes.\n' +
+    '\n' +
+    '*4* - Para Cancelar o Reagendar una cita.\n' +
+    '\n' +
+    '*5* - Para comunicarte con servicio al cliente.\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8fe8cb7a29ac31f55ac6e8d3619c52a9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112392448@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2FB14E1FBCDDB643F9',
+    participant: undefined
+  },
+  messageTimestamp: 1697658442,
+  pushName: 'Katherin Barrero 💫⭐️✨',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573112392448'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f34b390e-9dd2-4887-a6fb-d16e143ac7ac',
+  keyword: 'key_942b3814-09bd-4bd8-8f90-369c48cd4d09',
+  answer: 'Wow🙌, estoy muy feliz😃! gracias por confiar en nosotros 🙏. Te dejaré una lista de los servicios que manejamos 👇',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b8a6362ad1dc29e8c9653ab02e5c7613'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7f0ff3f4-55bb-4ca9-bc07-de85aca92809',
+  keyword: 'ans_f34b390e-9dd2-4887-a6fb-d16e143ac7ac',
+  answer: 'menu:',
+  options: {
+    media: 'C:/Users/Sebastian/Downloads/Carta de Servicios De Gold Nails Spa.pdf',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7aad8b72242d3189f6b856723756d5bc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec79e5cc-54a3-4d82-96f5-46611b0c6148',
+  keyword: 'ans_7f0ff3f4-55bb-4ca9-bc07-de85aca92809',
+  answer: '¿Ya Sabes qué hacerte?🤔.\n' +
+    'Por favor escribe el *nombre del servicio o servicios* que deseas realizarte💅.\n' +
+    '*(Solo debes escribir un mensaje)*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'dc2c0e2c95e45f513f6aca589f825b3b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112392448@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1D20119021DA9FDFD7',
+    participant: undefined
+  },
+  messageTimestamp: 1697658479,
+  pushName: 'Katherin Barrero 💫⭐️✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tradicional',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tradicional',
+  from: '573112392448'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_672f2574-6206-48e2-ad4d-2cf777cac15f',
+  keyword: 'ans_ec79e5cc-54a3-4d82-96f5-46611b0c6148',
+  answer: 'Ahora escribe la posible *Fecha 📆* y *hora 🕐* de tu servicio.\n' +
+    '*(Solo debes escribir un mensaje)*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'dc49d37347f1559404d528de024a02dc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112392448@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7EA08848015714FFD3',
+    participant: undefined
+  },
+  messageTimestamp: 1697658813,
+  pushName: 'Katherin Barrero 💫⭐️✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hoy a las 3:30',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hoy a las 3:30',
+  from: '573112392448'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4db1f030-941d-4731-b255-b052039c9e3e',
+  keyword: 'ans_672f2574-6206-48e2-ad4d-2cf777cac15f',
+  answer: 'Este es el resumen de tu pedido 👇',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e9ca00ed59429ab841a230d4b9ec124a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_49ee9ee1-f4d5-4438-a8b3-a6be6145e328',
+  keyword: 'ans_4db1f030-941d-4731-b255-b052039c9e3e',
+  answer: 'Gracias por contar con nosotros 😄. Estamos revisando nuestra agenda y pronto nos contacteremos contigo para confirmar la cita📱.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c81d2107d119d9ac0925bcd87d280508'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165645171@s.whatsapp.net',
+    fromMe: false,
+    id: 'C0FF643CDB7E632B80BFA9D1A672E891',
+    participant: undefined
+  },
+  messageTimestamp: 1697660637,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola para una cita',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola para una cita',
+  from: '573165645171'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c1e89f2e-e6d3-480b-a76f-05a9f68b8651',
+  keyword: 'key_a4538aab-36d5-4690-a204-62351bb07775',
+  answer: '🙌 Hola bienvenid@, mi nombre es *Uñitas* la *Inteligencia Artificial*🤖 de *Gold Nails Spa*💅 y fui creada para ayudarte',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '98eb8d7029ba1d4efab857d16f893a57'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4867f44e-9b9f-4c7e-8aa9-b08c4ff7b501',
+  keyword: 'ans_c1e89f2e-e6d3-480b-a76f-05a9f68b8651',
+  answer: 'Si te interesa alguna de estas opciones por favor *escribe el numero* que corresponde:\n' +
+    '\n' +
+    '*1* - Para Agendar una cita con nosotros.\n' +
+    '\n' +
+    '*2* - Para recibir información sobre nuestro servicios y precios.\n' +
+    '\n' +
+    '*3* - Para ver la *PROMO* del mes.\n' +
+    '\n' +
+    '*4* - Para Cancelar o Reagendar una cita.\n' +
+    '\n' +
+    '*5* - Para comunicarte con servicio al cliente.\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8fe8cb7a29ac31f55ac6e8d3619c52a9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165645171@s.whatsapp.net',
+    fromMe: false,
+    id: 'A6A710CA73C1AE1AE505B646F7464407',
+    participant: undefined
+  },
+  messageTimestamp: 1697660645,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573165645171'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ce838f93-e8c4-4cda-9230-e1df3d7af992',
+  keyword: 'key_25a18ee6-a1c8-4c5f-889b-d7958f1723f1',
+  answer: 'Por este mes de *OCTUBRE*🎃👻 nuestra promo será la siguiente:\n' +
+    '\n' +
+    'Si agendas con anticipacion el servicio de manos o pies tradicionales tendras un bono de *3mil* pesos😱😱\n' +
+    '\n' +
+    'Y si agendas el combo de manos y pies tradicionales tendras un bono de *7mil* pesos😱😱\n' +
+    '\n' +
+    '¿Qué deseas?🤔.\n' +
+    'Escribe el *número* que corresponda.\n' +
+    '\n' +
+    '*1* - Aceptar la Promo.\n' +
+    '\n' +
+    '*2* - Ignorar la Promo.\n' +
+    '\n' +
+    '*0* - *🔙Menú Principal*.\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0890784f4ac4c3fa83db7fc80c76bf79'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165645171@s.whatsapp.net',
+    fromMe: false,
+    id: '4F04075E697349ED6B7DB0543CF8F46C',
+    participant: undefined
+  },
+  messageTimestamp: 1697660668,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573165645171'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c0099dce-b025-4f1c-89b8-7202881aaa43',
+  keyword: 'key_c44c6d82-e1d7-4878-9625-c1fbb74fb0a8',
+  answer: 'Lamentamos que no tomes esta increible promoción, quizas en otro momento.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '87a800868e1898020d14d0166b647347'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165645171@s.whatsapp.net',
+    fromMe: false,
+    id: 'F3F91DF35D70DB3CD2333C5E3A3CBE3E',
+    participant: undefined
+  },
+  messageTimestamp: 1697660675,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '573165645171'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_33aef6ee-d3cf-4d94-b547-c36cee7f4891',
+  keyword: 'key_07a71f5f-505d-4256-935b-84bdc332107c',
+  answer: 'Gracias a ti. Es un placer poder ayudarte🤗',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8bbb4a5718dc70c1134e5a9d3ec7f1c1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144060376@s.whatsapp.net',
+    fromMe: false,
+    id: '7FA6F201316A33EE73A142BE8783BA2A',
+    participant: undefined
+  },
+  messageTimestamp: 1697666477,
+  pushName: 'Juana Valentina',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/32719939_1016905786227882_3881608218843453892_n.enc?ccb=11-4&oh=01_AdT7PM-hyNkfqLTdsQr6Zho-KOR3HjBfRZrmBW7HGZmHqQ&oe=6557DEAB&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 682,
+      width: 735,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/32719939_1016905786227882_3881608218843453892_n.enc?ccb=11-4&oh=01_AdT7PM-hyNkfqLTdsQr6Zho-KOR3HjBfRZrmBW7HGZmHqQ&oe=6557DEAB&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__a22c72e8-e2d1-4b8b-b52f-d415cd32cfef',
+  from: '573144060376'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144060376@s.whatsapp.net',
+    fromMe: false,
+    id: 'D5A20D8FF7CC9FDA6DDDDEB56CFD7D3C',
+    participant: undefined
+  },
+  messageTimestamp: 1697670678,
+  pushName: 'Juana Valentina',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/33446531_835144237989287_8391977908861975616_n.enc?ccb=11-4&oh=01_AdS5Y-zdopGes9CwA-oMXqnnXEmqLtE6oCYYxvkotlZ0Kg&oe=6557E894&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 818,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/33446531_835144237989287_8391977908861975616_n.enc?ccb=11-4&oh=01_AdS5Y-zdopGes9CwA-oMXqnnXEmqLtE6oCYYxvkotlZ0Kg&oe=6557E894&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__0bef76b7-eb64-42f2-8e4e-1799f03c0810',
+  from: '573144060376'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573165645171@s.whatsapp.net',
+    fromMe: false,
+    id: '75D5383D5A6E682DB55BB437436C4A40',
+    participant: undefined
+  },
+  messageTimestamp: 1697673764,
+  pushName: 'Sebastián',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573165645171'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c1e89f2e-e6d3-480b-a76f-05a9f68b8651',
+  keyword: 'key_a4538aab-36d5-4690-a204-62351bb07775',
+  answer: '🙌 Hola bienvenid@, mi nombre es *Uñitas* la *Inteligencia Artificial*🤖 de *Gold Nails Spa*💅 y fui creada para ayudarte',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '98eb8d7029ba1d4efab857d16f893a57'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4867f44e-9b9f-4c7e-8aa9-b08c4ff7b501',
+  keyword: 'ans_c1e89f2e-e6d3-480b-a76f-05a9f68b8651',
+  answer: 'Si te interesa alguna de estas opciones por favor *escribe el numero* que corresponde:\n' +
+    '\n' +
+    '*1* - Para Agendar una cita con nosotros.\n' +
+    '\n' +
+    '*2* - Para recibir información sobre nuestro servicios y precios.\n' +
+    '\n' +
+    '*3* - Para ver la *PROMO* del mes.\n' +
+    '\n' +
+    '*4* - Para Cancelar o Reagendar una cita.\n' +
+    '\n' +
+    '*5* - Para comunicarte con servicio al cliente.\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8fe8cb7a29ac31f55ac6e8d3619c52a9'
+}

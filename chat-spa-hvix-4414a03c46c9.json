@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chat-spa-hvix",
+  "private_key_id": "4414a03c46c90cf6c85850c708654d1fdadff697",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+klgyZr3ZeXyn\nJv40Ir5q7KwU4lMxBKG6wCjPTZPNss7Th+0c5cJG40T7Y8QWGiShyh56GXia2zQN\npQMvhMz3eUXasPs+7G8yb0/MSZQvwT+7rjlSWj3sUqqFDJQXHLLYiFH7iC4usNJS\n8uW7PVknC77Fc2KgDtQoGhEFmNwJddprwABw4HImK4g9DWQZlyR7ho8c1q6koZ/g\nTMQmevDcqwZn4ZK6onlDjPgtyY2Y7K5BFkwKJaGK5bPBKkxjPLT5/dmnAW5V84ia\nnzAnuhwViXgBfKZ3BqWBZg5T7UDJSkluQMOQwaMW78wLhTmA5lxkZJG10BsZxcbf\nk5e4FdQjAgMBAAECggEATbL8S7xxHni2dq5iyZ361jyd4rvuYFd7m1laqj7+iskj\nI8LRTc1tuxpRl0+zdLF/CwoOCAlXj4fdPszvMhIqwaHL9eDf52Vd5wnUVr4PMbNQ\niXR9AZMymSaRSML6pDu6vadDCdOZxMaqUlCfkwptzYov43Bqn0i8foc2Nnp/CEm1\nM27arqR9pEQcK5z5DUEY56U3Cgf6NjG9M9DlaipfYZKygm64CNAG+SxTdMnuMF/j\nF00U3qqvqPDoKL0V+fh6C/2mpxUQR0tnLcJZBhgcIEZQUv8J7O121cPYqEjl7PE9\nW8vCOedKv9RA9LjLnIoiECjr5J/EPYdeWAaRVnRL2QKBgQDihQOZAdjMH7IgtpPa\nhLskOYokUCh5zIR1lpeW2DlSw1/QlrM8OWkjoS/uaqBHk8Cpho0/SEKnXsLW6QSQ\nxzvT5sX84d0ot9DYksIpHDM5rZNJZAkDqulYk/V07WauE83eXw16rtf7la8W31PW\nszSmwyC0LBv0HuvkkHLizFB8uwKBgQDXX6XsAsps5ycUEiFyTF2rPc/+pCAakBPR\n+4Jqm2C8L/hv9MLqQx8dQnyl9aNU0cQlMhmuv+N2dM9EAyNkorhM/e7RbKIsN0kO\n9E8bQ/wD8vfPUqWw2juMhY9PjmoKNInQWb3UlM/rUM2n12RgNW5j14LM24fVXAMn\nZ+PLUMiDuQKBgQDZM4Qcnfm82RObbJZfbPBpLsc4RKhbCfFlM04NtS1aH77rKuWY\ndNBM+s0UBqfDmnid1UfxCx/mjuWy3uKi1HeYm2rzLbw7w+39DNQiSUkRIE/fio1e\nN+7iIZW2VcEkYBcCCBDLt4WgVon6G5CviUyOLwJX4Qe40EGO+7c9o3316wKBgGB+\nz0VN/soKSvz4HpoqUvFtUWqCuIuOMAMtz8HZ+d53E7V9kXMKPb+LUXO9+b7/+QS9\nTLp56Pzi2xZa3ZmyOibswvp71LFA1+/mUCckL57JVnRCUFBLhtCv6oS3hxUpcvGx\ns5ayUfHZkzr3C1b7uYjsPwNv/I0Am70lE++9MwmpAoGBAJkGizDzgDSZ4L4VeZRl\nsRm3JPLcF2CedWpKWDlbdWUSF+FZ3w/D4rmAYLTmoGQkRSHIYcB3i5YapjjZZbtA\naVPRc5I+n9aaDMzFB5rGXbyX4ln+2BlcWXtnoRJEmgnStTJ6OCcFM0v8XCXE1XLe\nFVhkeHTxpjfw981sxCKSiQ0P\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatspa@chat-spa-hvix.iam.gserviceaccount.com",
+  "client_id": "112692872203251975968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatspa%40chat-spa-hvix.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
